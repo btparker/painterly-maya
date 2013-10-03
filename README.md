@@ -16,6 +16,11 @@ Different brushes can create different effects, brushes are in the brushes folde
 
 #### Brush Diagram
 ![Tooth Brush Diagram](/tests/tooth/tooth_images.png "Tooth Brush Diagram")
+## Videos
+[![LinkShield](/tests/youtube-screenshot/link-shield.png)](http://youtu.be/W_d2Q1tDXJc)
+[![Pyramid Low Res](/tests/youtube-screenshot/pyramid-low-res.png)](http://youtu.be/W0Fk1zuKRdo)
+[![Distort Sphere](/tests/youtube-screenshot/distort-sphere.png)](http://youtu.be/OXgYoqn6Ogg)
+
 ## Presentation
 ![Slide01](/resources/presentation/Painterly_Rendering_for_Animation/Slide01.jpg "Slide01")
 ![Slide02](/resources/presentation/Painterly_Rendering_for_Animation/Slide02.jpg "Slide02")
